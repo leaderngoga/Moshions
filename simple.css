@@ -1,0 +1,73 @@
+body{
+    background:white;
+}
+nav     {
+    background: lightsalmon;
+    width: 100%;
+    height: 49px;
+    display: inline-block;
+    
+  }
+  .log{
+      margin-left: 50%;
+  }
+  nav ul   {
+    list-style: none;
+    margin: 0;
+  }
+  nav ul li {
+    display: inline-block;
+  }
+  nav ul li a    {
+    color: maroon;
+    text-decoration: none;
+    display: block;
+    padding: 10px 15px;
+    border-radius: 3px;
+    transition: 0.3s ease all;
+  }
+  nav ul li a:hover   {
+    background:wheat;
+    font-style: initial;
+  }
+/**.header {
+    background:lightgreen;
+    color: black; 
+    height: 49px;
+    padding-bottom: 40px;
+    padding-right: 1329px;
+    width: 37px;
+}**/
+h1{
+    border-color: antiquewhite;
+    background-color: white;
+    font-style: normal;
+    font-size: 24px;
+    text-align: center;
+    width: 1291px;
+    height: 80px;
+}
+.link{
+    height:234px;
+    width: -1px;
+}
+p{
+    text-decoration-style:"wavy";
+     text-decoration-color:"chocolate";
+}
+footer{
+    border-bottom-color: #00bcd4;
+    border-width: 53px;
+    text-align: center;    
+    text-decoration: underline;
+
+}
+}
+/**body
+{
+background-image: url(Floor-to-ceiling-floding-glass-doors-with-stainless-steel-frame.jpg);
+height: auto;
+background-repeat: no-repeat;
+background-size: 89%;
+}**/
+
